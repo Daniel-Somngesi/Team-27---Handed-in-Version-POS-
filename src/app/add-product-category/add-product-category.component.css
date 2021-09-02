@@ -1,0 +1,15 @@
+#table ,td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+    
+    th, td{
+        padding: 15px;
+    }
+
+    #lblCategoryDescription{
+        width: 180px; 
+        display: inline-block;
+        text-align:right;
+        vertical-align: top;
+      }
